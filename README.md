@@ -1,3 +1,3 @@
 # react_tutorial_2
  
-Certificate: https://scrimba.com/certificate/urYernCY/glearnreact
+Certificate of Completion: https://scrimba.com/certificate/urYernCY/glearnreact
